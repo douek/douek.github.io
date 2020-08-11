@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Developreit</title>
-    <link>https://github.com/douek/douek.github.io.git/</link>
+    <link>https://douek.github.io.git/</link>
     <description>Recent content on Developreit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://github.com/douek/douek.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://douek.github.io.git/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
